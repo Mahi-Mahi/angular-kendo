@@ -1,6 +1,6 @@
 {
   "name": "angular-kendo",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "dependencies": {
     "kendo-ui": "github.com/Mahi-Mahi/bower-kendo-ui#2014.1.319",
     "angular": "~1.2.2"
